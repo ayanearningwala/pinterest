@@ -1,0 +1,105 @@
+[08-Jan-2025 04:59:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:06:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:08:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayanearnigwala@gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:10:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'bhai@Gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:13:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayanearnigwala@gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:14:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:19:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:35:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image_url' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/upload.php:22
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/upload.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/upload.php on line 22
+[08-Jan-2025 05:36:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'image_url' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/upload.php:22
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/upload.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/upload.php on line 22
+[08-Jan-2025 05:48:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:48:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:50:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Amirshaikh' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
+[08-Jan-2025 05:52:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[08-Jan-2025 05:53:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'followee_id' cannot be null in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php:41
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/profile.php on line 41
+[26-Jan-2025 17:51:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ayanearnigwala@gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/Pinterest/signup.php on line 14
